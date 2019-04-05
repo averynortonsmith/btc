@@ -3,6 +3,18 @@
     height: 70%;
 }
 
+#profile {
+    position: relative;
+    margin: 20px;
+}
+
+#profile img {
+    margin: 0px auto;
+    max-height: 300px;
+    max-width: 100%;
+    display: block;
+}
+
 #info-container {
 }
 
